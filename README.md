@@ -1,4 +1,4 @@
-andrewjdyck.github.com
-======================
+# jekyll-homepage
+My homepage using jekyll before moving to R/Hugo blogdown
 
-A personal homepage using the github.io hosting.
+used to be served at andrewjdyck.github.io
